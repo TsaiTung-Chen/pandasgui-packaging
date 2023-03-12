@@ -22,7 +22,7 @@ pip install pynput
 pip install qtstylish --no-deps
 ```
 
-3. Install PandasGUI from the master branch
+3. Install the latest PandasGUI from the master branch
 ```shell
 pip install git+https://github.com/adamerose/pandasgui.git --no-deps
 ```
